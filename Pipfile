@@ -3,11 +3,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[packages]
-"lib1" = {editable = true, path = "lib1"}
-"lib2" = {editable = true, path = "lib2"}
-"22dede5" = {path = "./lib1", editable = true}
-"2a0dbdb" = {path = "./lib2", editable = true}
-
 [requires]
 python_version = "3.6"
+

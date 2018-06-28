@@ -5,6 +5,6 @@ setup(
     version='0.1',
     packages=[],
     install_requires=[
-        'tensorflow'
+        'bleach==1.5.0'
     ]
 )

@@ -5,6 +5,6 @@ setup(
     version='0.1',
     packages=[],
     install_requires=[
-        'notebook < 5.5.0',
+        'bleach',
     ]
 )
